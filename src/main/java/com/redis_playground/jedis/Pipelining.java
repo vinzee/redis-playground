@@ -1,4 +1,4 @@
-package com.redis_playground;
+package com.redis_playground.jedis;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

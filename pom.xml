@@ -28,6 +28,20 @@
             <version>3.2.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.redislabs</groupId>
+            <artifactId>jrebloom</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/io.lettuce/lettuce-core -->
+        <dependency>
+            <groupId>io.lettuce</groupId>
+            <artifactId>lettuce-core</artifactId>
+            <version>5.3.0.RELEASE</version>
+        </dependency>
+
+
         <!-- https://mvnrepository.com/artifact/org.javatuples/javatuples -->
         <dependency>
             <groupId>org.javatuples</groupId>
